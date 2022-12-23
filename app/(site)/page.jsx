@@ -2,7 +2,7 @@ import React from 'react'
 
 function LandingPage() {
     return (
-        <div>This is Landing Page</div>
+        <div>This is Landing Page THIS IS NOT OUVA</div>
     )
 }
 
